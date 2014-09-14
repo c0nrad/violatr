@@ -1,0 +1,4 @@
+
+BODY {
+  background:url("javascript:alert('i am a css eval?')")
+}
